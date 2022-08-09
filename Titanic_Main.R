@@ -1,1 +1,3 @@
-#Kaggle- ML Titanic Project
+#Kaggle- ML Titanic project
+x <- 5
+
